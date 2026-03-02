@@ -1,7 +1,8 @@
-## 📷 Dashboard Preview
-<img width="1920" height="1080" alt="Dashboard" src="https://github.com/user-attachments/assets/d412418d-40d4-4cd6-adce-8744cc186299" />
 
-![Dashboard](Dashboard.png)
+## 📷 Dashboard Preview
+
+[![Dashboard Preview](dashboard.png)](dashboard.png)
+
 # 📊 Data Analytics Portfolio – Akhil
 
 ## 🚴 Bike Sales Analysis Dashboard (Excel)
