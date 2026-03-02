@@ -1,8 +1,4 @@
 
-## 📷 Dashboard Preview
-
-[![Dashboard Preview](dashboard.png)](dashboard.png)
-
 # 📊 Data Analytics Portfolio – Akhil
 
 ## 🚴 Bike Sales Analysis Dashboard (Excel)
