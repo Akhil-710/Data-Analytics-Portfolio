@@ -1,5 +1,4 @@
 
-# 📊 Data Analytics Portfolio – Akhil
 
 ## 🚴 Bike Sales Analysis Dashboard (Excel)
 
